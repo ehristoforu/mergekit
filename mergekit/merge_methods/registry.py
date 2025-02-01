@@ -26,7 +26,7 @@ from mergekit.merge_methods.nearswap import NearSwapMerge
 from mergekit.merge_methods.nuslerp import NuSlerpMerge
 from mergekit.merge_methods.passthrough import PassthroughMerge
 from mergekit.merge_methods.sce import SCEMerge
-from mergekit.merge_method.cheap_distill import CheapDistillMerge
+from mergekit.merge_methods.cheap_distill import CheapDistillMerge
 from mergekit.merge_methods.slerp import SlerpMerge
 from mergekit.sparsify import SparsificationMethod
 
